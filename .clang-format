@@ -1,0 +1,11 @@
+AlignAfterOpenBracket: BlockIndent
+AlignEscapedNewlines: DontAlign
+AllowShortFunctionsOnASingleLine: None
+BasedOnStyle: LLVM
+BinPackArguments: false
+BreakBeforeBraces: Linux
+BreakStringLiterals: false
+ContinuationIndentWidth: 8
+IndentWidth: 8
+TabWidth: 8
+UseTab: Always

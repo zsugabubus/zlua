@@ -1,0 +1,3 @@
+#!/bin/sh
+stylua .
+clang-format -i -- *.c *.h
